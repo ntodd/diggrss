@@ -23,7 +23,15 @@ Just replace "technology" with any topic available on digg
 Scrape multiple feeds
 
 		diggrss_url.com/technology/apple/linux
-		
+
+Install
+----
+
+		git clone git://github.com/ntodd/diggrss.git
+		ruby diggrss.rb
+
+Most dependencies are vendored, so you should be good to go right off the bat.  A rackup file has been included for use with Passenger on Apache.  Just be sure to add in a tmp/ and public/ dir in the application root and passenger *should* run it with no modifications.
+
 DiggRSS Sucks
 ----
 
