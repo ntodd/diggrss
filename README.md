@@ -16,6 +16,8 @@ Scrape Technology stories
 
 		diggrss_url.com/technology
 		
+Just replace "technology" with any topic available on digg
+		
 **Coming someday** (or just fork and do it yourself): 
 
 Scrape multiple feeds
