@@ -14,7 +14,7 @@ DiggRSS endows you with certain unalienable Rights
 
 Scrape Technology stories 
 
-		diggrss_url.com/technology
+		http://localhost:4567/technology
 		
 Just replace "technology" with any topic available on digg
 		
@@ -22,7 +22,7 @@ Just replace "technology" with any topic available on digg
 
 Scrape multiple feeds
 
-		diggrss_url.com/technology/apple/linux
+		http://localhost:4567/technology/apple/linux
 
 Install
 ----
